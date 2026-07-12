@@ -1,0 +1,7 @@
+# Root .gitignore
+
+**/node_modules
+**/vendor
+**/.env
+**/storage/*.key
+**/.next
